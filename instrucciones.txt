@@ -1,0 +1,8 @@
+
+1. Descarga el ZIP.
+ 
+2. Instala Node.js. 
+
+3. Configura MongoDB Atlas.
+ 
+4. Corre npm install y node server.js
